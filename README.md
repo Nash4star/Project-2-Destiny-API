@@ -20,7 +20,7 @@
 ## Approach taken
 - Start off with your downloads, then mov into adding server.js
 - add folders for views, models, controllers, public, and utils.
-- then create a base that will get your a
+- 
 
 ![Main Screen](img/Front-page.jpg)
 ![Sign-Up](img/Sign-Up.jpg)
