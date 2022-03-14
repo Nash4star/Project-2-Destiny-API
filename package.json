@@ -1,0 +1,27 @@
+{
+  "name": "project-2-destiny-api",
+  "version": "1.0.0",
+  "description": "## Description - This a App used to get information on how to collect every Exotic (Rarity of an item) in the game Destiny 2. - It will aslo have the stats of the Item. - aslo the ability to keep track of what Exotics you have collected.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nash4star/Project-2-Destiny-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nash4star/Project-2-Destiny-API/issues"
+  },
+  "homepage": "https://github.com/Nash4star/Project-2-Destiny-API#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "liquid": "^5.1.1",
+    "liquid-express-views": "^1.0.8",
+    "mongoose": "^6.2.6"
+  }
+}
