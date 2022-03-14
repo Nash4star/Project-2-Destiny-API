@@ -7,7 +7,7 @@
 
 ## Installation 
 - npm init 
-- npm i mongoose express liquid-express-views
+- npm i mongoose express liquid-express-views liquid
 
 ## Technoloies used
 - CSS Mongoose MongoDb JS Views 
