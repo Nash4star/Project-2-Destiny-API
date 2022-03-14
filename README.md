@@ -34,4 +34,5 @@
 ![Sign-Up](img/Sign-Up.jpg)
 ![Log-In](img/Log-in.jpg)
 ![Drop Down Tap](img/dropdown-list.jpg)
-1[Item Page](img/Item-Page.jpg)
+![Item Page](img/Item-Page.jpg)
+![ERD](img/ERD.jpg)
