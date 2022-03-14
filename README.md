@@ -22,6 +22,14 @@
 - add folders for views, models, controllers, public, and utils.
 - 
 
+### MVP 
+- create a completely useable app that is able to access information about Exotic items
+
+### Stretch plan 
+- able to keep a tally of what Exotics you've collected
+- add images from the api to the Items Page to make it a nicer looking page.
+
+
 ![Main Screen](img/Front-page.jpg)
 ![Sign-Up](img/Sign-Up.jpg)
 ![Log-In](img/Log-in.jpg)
